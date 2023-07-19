@@ -7,6 +7,7 @@
 <p align="center">
   <span style="font-size: 24px; font-family: 'Arial', sans-serif; font-weight: bold;">플랫폼 및 언어</span>
 
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=#3776AB">
