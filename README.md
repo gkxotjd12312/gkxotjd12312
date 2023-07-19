@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  ## <span style="font-size: 24px; font-family: 'Arial', sans-serif; font-weight: bold;">플랫폼 및 언어</span>
+  ## 플랫폼 및 언어
 
 
 </p>
