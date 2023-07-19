@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-green?style=flat&logo=PyTorch&logoColor=#EE4C2C"/>
-  <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=PyTorc&logoColor=#EE4C2C">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorc&logoColor=#EE4C2C">
 </p>
 
 ##### Tools
