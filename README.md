@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/csharp-green?style=for-the-badge&logo=csharp&logoColor=#239120">
   <img src="https://img.shields.io/badge/unity-green?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
 </p>
-
-##### OS
+ 
+<div align="center">
+  OS
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/windows-green?style=for-the-badge&logo=windows&logoColor=#0078D6">
