@@ -5,17 +5,19 @@
 <br>
 
 ##### 플랫폼 및 언어
-<p align="horizontal">
+<p align="center">
   <img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=#3776AB">
   <img src="https://img.shields.io/badge/PyTorch-green?style=for-the-badge&logo=PyTorch&logoColor=#EE4C2C">
 </p>
 
-##### Tools
-<p align="horizontal">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/csharp-green?style=for-the-badge&logo=csharp&logoColor=#239120">
+  <img src="https://img.shields.io/badge/unity-green?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
 </p>
-<br>
 
-#### *Mail & Blog* 📫
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zachpaul707@gmail.com)](mailto:zachpaul707@gmail.com)
+##### OS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/windows-green?style=for-the-badge&logo=windows&logoColor=#0078D6">
+  <img src="https://img.shields.io/badge/linux-green?style=for-the-badge&logo=linux&logoColor=#FCC624">
+</p>
