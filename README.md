@@ -4,11 +4,9 @@
 ##### 지금은 인공지능을 공부하고있습니다. 🖊
 <br>
 
-<p align="center">
-플랫폼 및 언어
-
-
-</p>
+<div align="center">
+  플랫폼 및 언어
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=#3776AB">
   <img src="https://img.shields.io/badge/PyTorch-green?style=for-the-badge&logo=PyTorch&logoColor=#EE4C2C">
