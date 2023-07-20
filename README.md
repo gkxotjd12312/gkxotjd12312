@@ -25,3 +25,12 @@
   <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=#0078D6">
   <img src="https://img.shields.io/badge/linux-8977ad?style=for-the-badge&logo=linux&logoColor=#FCC624">
 </p>
+
+ 
+<div align="center">
+  E-Mail
+</div>
+
+<p align="center">
+  gkxotjd12312@naver.com
+</p>
