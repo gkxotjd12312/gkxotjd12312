@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=#239120">
-  <img src="https://img.shields.io/badge/unity-#000080?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
+  <img src="https://img.shields.io/badge/unity-000080?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
 </p>
  
 <div align="center">
@@ -23,5 +23,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=#0078D6">
-  <img src="https://img.shields.io/badge/linux-#8977ad?style=for-the-badge&logo=linux&logoColor=#FCC624">
+  <img src="https://img.shields.io/badge/linux-8977ad?style=for-the-badge&logo=linux&logoColor=#FCC624">
 </p>
